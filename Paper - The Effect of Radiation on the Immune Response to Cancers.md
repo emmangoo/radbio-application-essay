@@ -16,3 +16,4 @@ General: paper is from 2014, so information can be outdated.
 - certain cancers seem to be more vulnerable to the abscopal effect than others => eg, hepatocellular carcinoma 
 - "_Concomitant immunity_ is the phenomenon where an individual with a persistent infection displays immunity to re-infections caused by similar pathogens" (Wikipedia)
 - radiation *may* enhance the infiltration of T cells into solid tumors
+- test
