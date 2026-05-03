@@ -16,4 +16,8 @@ General: paper is from 2014, so information can be outdated.
 - certain cancers seem to be more vulnerable to the abscopal effect than others => eg, hepatocellular carcinoma 
 - "_Concomitant immunity_ is the phenomenon where an individual with a persistent infection displays immunity to re-infections caused by similar pathogens" (Wikipedia)
 - radiation *may* enhance the infiltration of T cells into solid tumors
-- test
+- "Localized irradiation of the tumor site can modify the microenvironments generating inflammatory cytokines, thereby increasing trafficking and retention of T lymphocytes within tumors"
+- "other tumor types (e.g., multiple myeloma) require high-dose γ-irradiation to achieve enhanced expression of MHC class I/MHC class II, increased immunogenicity and improved efficacy when combined with immunotherapy" => again different types of tumors may require different types of approaches, as with any therapy a combination of therapies may also prove useful
+- there are also caveats with radiation therapy: inhibitory receptor ligand may be induced on tumor cells
+- another caveat to radiation therapy: even if immune cells, eg NK cells, can bind to a tumor following radiation, activation of the cell may still fail
+- "NK cells exhibited time- and dose-dependent enhancement in their anti-tumor cytotoxicity with irradiation" => again effects of radiation are time and dose dependent
