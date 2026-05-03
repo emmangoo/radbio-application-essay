@@ -1,0 +1,23 @@
+https://www.sciencedirect.com/science/article/abs/pii/S036030162600088X
+
+- "The immune response to radiation is an important contributor to the efficacy of radiation therapy and has the potential to influence susceptibility to immunotherapies."
+- radiation therapy upregulates MHC-I on tumour cells, which increases antigen presentation and makes tumour cells more visible to T cells
+- Fractionated radiation dosages have been shown to promote an adaptive immune response of tumour neoantigens in mice ("in situ vaccine")
+- More evidence surrounding the importance of T cells in the immune response: radiation activating the STING pathway, thereby enhancing the priming of dendritic (antigen presenting) and cytotoxic T cells
+- There is still conflicting evidence/ lack of clinical proof for sequencing of treatment when using radiation in combination with other therapies (PACIFIC I and II studies)
+- "Such considerations become even more important in metastatic settings, where heterogeneity across tumors and tumor microenvironments, prior treatment effects, and patient fitness can affect immune response and limit therapeutic efficacy."
+- Radiation reshapes the baseline regulatory mechanisms that underline immune response mechanisms 
+- Recall: the immune system works largely via cascades (check biochem 4 summary)
+- Tumours may or may not provoke an immune response, depending on several factors like the presence of tumor-specific antigens 
+- "Radiation alters tumor cell immunogenicity through a cascade of interrelated mechanisms involving cell death, nucleic acid sensing, and antigen presentation"
+-  certain damage-associated molecular patterns mark certain types of cell death and immunogenicity- for radiation-induced modulation of tumour immunogenicity, it is cytosolic nucleic acids
+- Radiosensitivity is not the same across all humans, with differences being suggested due to biological sex, for example => this affects treatment plans and options 
+- Production of ROS/RNS from radiation => reactive oxygen can damage nucleic DNA and mtDNA, leading to leakage of nucleic acids if repair mechanisms fail or only partially succeed
+- mtDNA also has limited repair capacity, and mtRNA can be abnormally processed due to radiation
+- STING mediated antitumour response ties back to T cells 
+- "persistent DNA damage at lower dose rates may enhance nucleic acid sensing"
+- Lower IR doses (1-4 Gy) can "enhance innate immune activation by inducing mitochondrial stress"
+- while larger singular doses of high radiation (>= 10-15 Gy) may prove beneficial from an immunoresponse-perspective, they also severely damage surrounding tissues and cells, which needs to be taken into account
+- cancer-associated fibroblasts remodel the extracellular matrix and are highly radioresistant 
+- an initially beneficial adaptive immune response by radiation can turn into chronic inflammation, which then suppresses the immune system 
+- key transcription factor pathways, such as NF-kB are activated
