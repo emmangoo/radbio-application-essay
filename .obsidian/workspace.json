@@ -11,10 +11,14 @@
             "id": "6e0cf71734521918",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Immune Response to Radiation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Immune Response to Radiation"
             }
           }
         ]
@@ -182,19 +186,19 @@
   },
   "active": "6e0cf71734521918",
   "lastOpenFiles": [
-    "Paper - Harnessing the Power of Low-Intensity Focused Ultrasound Stimulation in Stroke, Modulating Immune Response.md",
-    "Paper - Immuno-radiobiology, Effects of Radiation Therapy on Immune cells, Tumor Microenvironment, Susceptibility of Tumor Cells to Immune-mediated Destruction, and Antitumor Immunity.md",
     "Cancer.md",
-    "Other.md",
-    "Environmental radiation.md",
-    "Paper - Mechanistic mathematical modeling of abscopal effect reveals mechanisms of off-target tumor response.md",
     "Immune Response to Radiation.md",
+    "Paper - Immuno-radiobiology, Effects of Radiation Therapy on Immune cells, Tumor Microenvironment, Susceptibility of Tumor Cells to Immune-mediated Destruction, and Antitumor Immunity.md",
+    "Paper - Сhornobyl context of modern children’s health, multifactor determinants and conceptual approaches.md",
+    "Environmental radiation.md",
+    "Untitled.canvas",
+    "Paper - Harnessing the Power of Low-Intensity Focused Ultrasound Stimulation in Stroke, Modulating Immune Response.md",
+    "Other.md",
+    "Paper - Mechanistic mathematical modeling of abscopal effect reveals mechanisms of off-target tumor response.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Paper - Сhornobyl context of modern children’s health, multifactor determinants and conceptual approaches.md",
     "Paper - Effects of long-term low-level radiation exposure after the Chernobyl catastrophe on immunoglobulins in children residing in contaminated areas, prospective and cross-sectional studies.md",
     "Paper - Long-lasting alterations of the immune system by ionizing radiation exposure, Implications for disease development among atomic bomb survivors.md",
-    "Untitled.canvas",
     "Paper - Radiation, inflammation and the immune response in cancer.md",
     "Paper - Modeling of radiation effects to immune system, a review.md",
     "Pasted image 20260503140021.png",

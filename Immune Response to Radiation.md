@@ -2,4 +2,4 @@
 
 [Environmental radiation](Environmental%20radiation.md)
 
-[[Other]]
+[Other](Other.md)
