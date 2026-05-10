@@ -4,3 +4,6 @@
 
 [Paper - Сhornobyl context of modern children’s health, multifactor determinants and conceptual approaches](Paper%20-%20Сhornobyl%20context%20of%20modern%20children’s%20health,%20multifactor%20determinants%20and%20conceptual%20approaches.md)
 
+[Paper - The impact of long-term low-dose ionizing radiation on human health, risks and protective measures](Paper%20-%20The%20impact%20of%20long-term%20low-dose%20ionizing%20radiation%20on%20human%20health,%20risks%20and%20protective%20measures.md)
+
+
